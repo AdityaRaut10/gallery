@@ -57,8 +57,8 @@
     },
     "IMG_20191028_185512.jpg": {
       "type": "photo",
-      "width": 4608,
-      "height": 3456,
+      "width": 3456,
+      "height": 4608,
       "path": "./photos\\2019\\IMG_20191028_185512.jpg",
       "min_path": "./photos\\2019\\IMG_20191028_185512.min.jpg"
     },
