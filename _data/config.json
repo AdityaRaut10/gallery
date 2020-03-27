@@ -1,107 +1,217 @@
 [
   {
-    "name": "Street",
+    "name": "2017",
     "type": "photos",
     "parents": [
-      "2019",
-      "August",
-      "Street"
+      "2017"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/12.jpg",
-        "min_path": "./photos/2019/August/Street/12.min.jpg"
+        "width": 3120,
+        "height": 4160,
+        "path": "./photos\\2017\\IMG_20180620_171731.jpg",
+        "min_path": "./photos\\2017\\IMG_20180620_171731.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/10.jpg",
-        "min_path": "./photos/2019/August/Street/10.min.jpg"
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2017\\IMG_20170916_122243-EFFECTS.jpg",
+        "min_path": "./photos\\2017\\IMG_20170916_122243-EFFECTS.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3393,
-        "height": 5089,
-        "path": "./photos/2019/August/Street/08.jpg",
-        "min_path": "./photos/2019/August/Street/08.min.jpg"
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2017\\IMG_20170828_174722.jpg",
+        "min_path": "./photos\\2017\\IMG_20170828_174722.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/07.jpg",
-        "min_path": "./photos/2019/August/Street/07.min.jpg"
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2017\\IMG_20170823_185724.jpg",
+        "min_path": "./photos\\2017\\IMG_20170823_185724.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/05.jpg",
-        "min_path": "./photos/2019/August/Street/05.min.jpg"
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2017\\IMG_20170812_192029.jpg",
+        "min_path": "./photos\\2017\\IMG_20170812_192029.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/04.jpg",
-        "min_path": "./photos/2019/August/Street/04.min.jpg"
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2017\\IMG_20170508_161342.jpg",
+        "min_path": "./photos\\2017\\IMG_20170508_161342.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2017\\IMG_20170411_175950.jpg",
+        "min_path": "./photos\\2017\\IMG_20170411_175950.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3052,
+        "height": 3916,
+        "path": "./photos\\2017\\IMG_20170223_104251.jpg",
+        "min_path": "./photos\\2017\\IMG_20170223_104251.min.jpg"
       }
     ]
   },
   {
-    "name": "Hokkaido December",
+    "name": "Tiruchirappalli",
     "type": "photos",
     "parents": [
-      "2018",
-      "Hokkaido December"
+      "2020",
+      "January",
+      "Tiruchirappalli"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1133,
-        "path": "./photos/2018/Hokkaido December/13.jpg",
-        "min_path": "./photos/2018/Hokkaido December/13.min.jpg"
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\17.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\17.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 983,
-        "path": "./photos/2018/Hokkaido December/08.jpg",
-        "min_path": "./photos/2018/Hokkaido December/08.min.jpg"
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\16.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\16.min.jpg"
       },
       {
         "type": "photo",
-        "width": 4344,
-        "height": 2897,
-        "path": "./photos/2018/Hokkaido December/07.jpg",
-        "min_path": "./photos/2018/Hokkaido December/07.min.jpg"
+        "width": 4000,
+        "height": 1800,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\15.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\15.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1134,
-        "path": "./photos/2018/Hokkaido December/05.jpg",
-        "min_path": "./photos/2018/Hokkaido December/05.min.jpg"
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\14.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\14.min.jpg"
       },
       {
         "type": "photo",
-        "width": 4806,
-        "height": 3201,
-        "path": "./photos/2018/Hokkaido December/04.jpg",
-        "min_path": "./photos/2018/Hokkaido December/04.min.jpg"
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\13.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\13.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1122,
-        "path": "./photos/2018/Hokkaido December/01.jpg",
-        "min_path": "./photos/2018/Hokkaido December/01.min.jpg"
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\12.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\12.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\11.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\11.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\10.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\1.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\1.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\09.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\09.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\08.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\08.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\07.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\07.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\06.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\06.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 1800,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\05.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\05.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 1800,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\04.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\04.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\03.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\03.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\January\\Tiruchirappalli\\02.jpg",
+        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\02.min.jpg"
       }
     ]
+  },
+  {
+    "name": "2019",
+    "type": "album",
+    "root": 1,
+    "parents": [
+      "2019"
+    ],
+    "path": "./_data\\albums\\2019.json",
+    "no_sub_album": true
+  },
+  {
+    "name": "2018",
+    "type": "album",
+    "root": 1,
+    "parents": [
+      "2018"
+    ],
+    "path": "./_data\\albums\\2018.json",
+    "no_sub_album": true
   }
 ]

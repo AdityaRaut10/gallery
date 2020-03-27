@@ -1,0 +1,70 @@
+{
+  "order": [
+    "IMG_20180620_171731.jpg",
+    "IMG_20170916_122243-EFFECTS.jpg",
+    "IMG_20170828_174722.jpg",
+    "IMG_20170823_185724.jpg",
+    "IMG_20170812_192029.jpg",
+    "IMG_20170508_161342.jpg",
+    "IMG_20170411_175950.jpg",
+    "IMG_20170223_104251.jpg"
+  ],
+  "dict": {
+    "IMG_20180620_171731.jpg": {
+      "type": "photo",
+      "width": 3120,
+      "height": 4160,
+      "path": "./photos\\2017\\IMG_20180620_171731.jpg",
+      "min_path": "./photos\\2017\\IMG_20180620_171731.min.jpg"
+    },
+    "IMG_20170916_122243-EFFECTS.jpg": {
+      "type": "photo",
+      "width": 4160,
+      "height": 3120,
+      "path": "./photos\\2017\\IMG_20170916_122243-EFFECTS.jpg",
+      "min_path": "./photos\\2017\\IMG_20170916_122243-EFFECTS.min.jpg"
+    },
+    "IMG_20170828_174722.jpg": {
+      "type": "photo",
+      "width": 4160,
+      "height": 3120,
+      "path": "./photos\\2017\\IMG_20170828_174722.jpg",
+      "min_path": "./photos\\2017\\IMG_20170828_174722.min.jpg"
+    },
+    "IMG_20170823_185724.jpg": {
+      "type": "photo",
+      "width": 4160,
+      "height": 3120,
+      "path": "./photos\\2017\\IMG_20170823_185724.jpg",
+      "min_path": "./photos\\2017\\IMG_20170823_185724.min.jpg"
+    },
+    "IMG_20170812_192029.jpg": {
+      "type": "photo",
+      "width": 4160,
+      "height": 3120,
+      "path": "./photos\\2017\\IMG_20170812_192029.jpg",
+      "min_path": "./photos\\2017\\IMG_20170812_192029.min.jpg"
+    },
+    "IMG_20170508_161342.jpg": {
+      "type": "photo",
+      "width": 4160,
+      "height": 3120,
+      "path": "./photos\\2017\\IMG_20170508_161342.jpg",
+      "min_path": "./photos\\2017\\IMG_20170508_161342.min.jpg"
+    },
+    "IMG_20170411_175950.jpg": {
+      "type": "photo",
+      "width": 4160,
+      "height": 3120,
+      "path": "./photos\\2017\\IMG_20170411_175950.jpg",
+      "min_path": "./photos\\2017\\IMG_20170411_175950.min.jpg"
+    },
+    "IMG_20170223_104251.jpg": {
+      "type": "photo",
+      "width": 3052,
+      "height": 3916,
+      "path": "./photos\\2017\\IMG_20170223_104251.jpg",
+      "min_path": "./photos\\2017\\IMG_20170223_104251.min.jpg"
+    }
+  }
+}
