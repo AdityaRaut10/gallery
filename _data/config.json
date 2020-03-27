@@ -196,22 +196,461 @@
   },
   {
     "name": "2019",
-    "type": "album",
-    "root": 1,
+    "type": "photos",
     "parents": [
       "2019"
     ],
-    "path": "./_data\\albums\\2019.json",
-    "no_sub_album": true
+    "list": [
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20200308_151527.jpg",
+        "min_path": "./photos\\2019\\IMG_20200308_151527.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20200225_151052.jpg",
+        "min_path": "./photos\\2019\\IMG_20200225_151052.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20191206_201408.jpg",
+        "min_path": "./photos\\2019\\IMG_20191206_201408.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20191028_185512.jpg",
+        "min_path": "./photos\\2019\\IMG_20191028_185512.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20191008_030347.jpg",
+        "min_path": "./photos\\2019\\IMG_20191008_030347.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190902_120712.jpg",
+        "min_path": "./photos\\2019\\IMG_20190902_120712.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190608_144053.jpg",
+        "min_path": "./photos\\2019\\IMG_20190608_144053.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190607_102113.jpg",
+        "min_path": "./photos\\2019\\IMG_20190607_102113.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190607_085905.jpg",
+        "min_path": "./photos\\2019\\IMG_20190607_085905.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190607_075619.jpg",
+        "min_path": "./photos\\2019\\IMG_20190607_075619.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190601_060935.jpg",
+        "min_path": "./photos\\2019\\IMG_20190601_060935.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190531_162244.jpg",
+        "min_path": "./photos\\2019\\IMG_20190531_162244.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190531_152927.jpg",
+        "min_path": "./photos\\2019\\IMG_20190531_152927.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190531_152750.jpg",
+        "min_path": "./photos\\2019\\IMG_20190531_152750.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190531_152005.jpg",
+        "min_path": "./photos\\2019\\IMG_20190531_152005.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190531_145344.jpg",
+        "min_path": "./photos\\2019\\IMG_20190531_145344.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190309_140020.jpg",
+        "min_path": "./photos\\2019\\IMG_20190309_140020.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190218_093509.jpg",
+        "min_path": "./photos\\2019\\IMG_20190218_093509.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190217_144006.jpg",
+        "min_path": "./photos\\2019\\IMG_20190217_144006.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190126_211517.jpg",
+        "min_path": "./photos\\2019\\IMG_20190126_211517.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190106_145318-EFFECTS.jpg",
+        "min_path": "./photos\\2019\\IMG_20190106_145318-EFFECTS.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190106_143833-EFFECTS-EFFECTS.jpg",
+        "min_path": "./photos\\2019\\IMG_20190106_143833-EFFECTS-EFFECTS.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190106_133021.jpg",
+        "min_path": "./photos\\2019\\IMG_20190106_133021.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190106_113524.jpg",
+        "min_path": "./photos\\2019\\IMG_20190106_113524.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190105_203404.jpg",
+        "min_path": "./photos\\2019\\IMG_20190105_203404.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190105_183709.jpg",
+        "min_path": "./photos\\2019\\IMG_20190105_183709.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190105_183153.jpg",
+        "min_path": "./photos\\2019\\IMG_20190105_183153.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190105_181408.jpg",
+        "min_path": "./photos\\2019\\IMG_20190105_181408.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190105_135711-EFFECTS.jpg",
+        "min_path": "./photos\\2019\\IMG_20190105_135711-EFFECTS.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190105_114624.jpg",
+        "min_path": "./photos\\2019\\IMG_20190105_114624.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2019\\IMG_20190105_114618.jpg",
+        "min_path": "./photos\\2019\\IMG_20190105_114618.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3456,
+        "height": 4608,
+        "path": "./photos\\2019\\COLOR_POP.jpg",
+        "min_path": "./photos\\2019\\COLOR_POP.min.jpg"
+      }
+    ]
   },
   {
     "name": "2018",
-    "type": "album",
-    "root": 1,
+    "type": "photos",
     "parents": [
       "2018"
     ],
-    "path": "./_data\\albums\\2018.json",
-    "no_sub_album": true
+    "list": [
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181218_185429__01.jpg",
+        "min_path": "./photos\\2018\\IMG_20181218_185429__01.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181217_152018.jpg",
+        "min_path": "./photos\\2018\\IMG_20181217_152018.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181202_111011.jpg",
+        "min_path": "./photos\\2018\\IMG_20181202_111011.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181202_095406.jpg",
+        "min_path": "./photos\\2018\\IMG_20181202_095406.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181201_185825.jpg",
+        "min_path": "./photos\\2018\\IMG_20181201_185825.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3456,
+        "height": 4608,
+        "path": "./photos\\2018\\IMG_20181201_175348-EFFECTS.jpg",
+        "min_path": "./photos\\2018\\IMG_20181201_175348-EFFECTS.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181201_173928.jpg",
+        "min_path": "./photos\\2018\\IMG_20181201_173928.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181201_172228.jpg",
+        "min_path": "./photos\\2018\\IMG_20181201_172228.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181201_154053.jpg",
+        "min_path": "./photos\\2018\\IMG_20181201_154053.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181120_161228.jpg",
+        "min_path": "./photos\\2018\\IMG_20181120_161228.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181026_213240.jpg",
+        "min_path": "./photos\\2018\\IMG_20181026_213240.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20181006_235107.jpg",
+        "min_path": "./photos\\2018\\IMG_20181006_235107.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180929_084318.jpg",
+        "min_path": "./photos\\2018\\IMG_20180929_084318.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180908_122529.jpg",
+        "min_path": "./photos\\2018\\IMG_20180908_122529.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3072,
+        "height": 4096,
+        "path": "./photos\\2018\\IMG_20180826_121915__01.jpg",
+        "min_path": "./photos\\2018\\IMG_20180826_121915__01.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 2176,
+        "path": "./photos\\2018\\IMG_20180815_210156.jpg",
+        "min_path": "./photos\\2018\\IMG_20180815_210156.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180806_201446.jpg",
+        "min_path": "./photos\\2018\\IMG_20180806_201446.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180804_131654.jpg",
+        "min_path": "./photos\\2018\\IMG_20180804_131654.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180804_103515.jpg",
+        "min_path": "./photos\\2018\\IMG_20180804_103515.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180804_102925.jpg",
+        "min_path": "./photos\\2018\\IMG_20180804_102925.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180804_095039.jpg",
+        "min_path": "./photos\\2018\\IMG_20180804_095039.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180720_213537.jpg",
+        "min_path": "./photos\\2018\\IMG_20180720_213537.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180719_160455.jpg",
+        "min_path": "./photos\\2018\\IMG_20180719_160455.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180717_201622-EFFECTS.jpg",
+        "min_path": "./photos\\2018\\IMG_20180717_201622-EFFECTS.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2018\\IMG_20180717_165702.jpg",
+        "min_path": "./photos\\2018\\IMG_20180717_165702.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2018\\IMG_20180710_112343.jpg",
+        "min_path": "./photos\\2018\\IMG_20180710_112343.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3120,
+        "height": 4160,
+        "path": "./photos\\2018\\IMG_20180709_103613.jpg",
+        "min_path": "./photos\\2018\\IMG_20180709_103613.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2018\\IMG_20180626_144854.jpg",
+        "min_path": "./photos\\2018\\IMG_20180626_144854.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2018\\IMG_20180621_180428.jpg",
+        "min_path": "./photos\\2018\\IMG_20180621_180428.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3120,
+        "height": 4160,
+        "path": "./photos\\2018\\IMG_20180620_171731.jpg",
+        "min_path": "./photos\\2018\\IMG_20180620_171731.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4160,
+        "height": 3120,
+        "path": "./photos\\2018\\IMG_20180618_175116.jpg",
+        "min_path": "./photos\\2018\\IMG_20180618_175116.min.jpg"
+      }
+    ]
   }
 ]
