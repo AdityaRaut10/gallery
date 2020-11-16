@@ -11,6 +11,16 @@
       "2018"
     ],
     "dict": {
+      "2019": {
+        "name": "2019",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2019"
+        ],
+        "path": "./_data\\albums\\2019.json",
+        "no_sub_album": true
+      },
       "2017": {
         "name": "2017",
         "type": "album",
@@ -30,9 +40,21 @@
         ],
         "items": {
           "order": [
+            "Pandemic",
             "January"
           ],
           "dict": {
+            "Pandemic": {
+              "name": "Pandemic",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2020",
+                "Pandemic"
+              ],
+              "path": "./_data\\albums\\2020-Pandemic.json",
+              "no_sub_album": true
+            },
             "January": {
               "name": "January",
               "type": "album",
@@ -63,16 +85,6 @@
             }
           }
         }
-      },
-      "2019": {
-        "name": "2019",
-        "type": "album",
-        "root": 1,
-        "parents": [
-          "2019"
-        ],
-        "path": "./_data\\albums\\2019.json",
-        "no_sub_album": true
       },
       "2018": {
         "name": "2018",

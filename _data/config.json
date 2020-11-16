@@ -65,6 +65,51 @@
     ]
   },
   {
+    "name": "Pandemic",
+    "type": "photos",
+    "parents": [
+      "2020",
+      "Pandemic"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3456,
+        "height": 4608,
+        "path": "./photos\\2020\\Pandemic\\IMG_20201114_182307.jpg",
+        "min_path": "./photos\\2020\\Pandemic\\IMG_20201114_182307.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3456,
+        "height": 4608,
+        "path": "./photos\\2020\\Pandemic\\IMG_20201112_184401.jpg",
+        "min_path": "./photos\\2020\\Pandemic\\IMG_20201112_184401.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3456,
+        "height": 4608,
+        "path": "./photos\\2020\\Pandemic\\IMG_20200713_183120.jpg",
+        "min_path": "./photos\\2020\\Pandemic\\IMG_20200713_183120.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2020\\Pandemic\\IMG_20200329_191108.jpg",
+        "min_path": "./photos\\2020\\Pandemic\\IMG_20200329_191108.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2020\\Pandemic\\IMG_20200328_100803.jpg",
+        "min_path": "./photos\\2020\\Pandemic\\IMG_20200328_100803.min.jpg"
+      }
+    ]
+  },
+  {
     "name": "Tiruchirappalli",
     "type": "photos",
     "parents": [
