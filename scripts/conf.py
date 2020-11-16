@@ -24,11 +24,11 @@ SORT_ALBUMS_BY_TIME = True
 REVERSE_ALBUMS_ORDER = True
 ORDER_ALBUMS_BY_LAST_DO = 'access'  # modify, create
 
-SORT_PHOTOS_BY_TIME = False
+SORT_PHOTOS_BY_TIME = True
 REVERSE_PHOTOS_ORDER = True
 ORDER_PHOTOS_BY_LAST_DO = 'access'
 
-KEEP_ORDER = False
+KEEP_ORDER = True
 
 Path.mkdir(ALBUMS_PATH, exist_ok=True)
 
