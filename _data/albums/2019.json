@@ -5,7 +5,6 @@
     "IMG_20191206_201408.jpg",
     "IMG_20191028_185512.jpg",
     "IMG_20191008_030347.jpg",
-    "IMG_20190902_120712.jpg",
     "IMG_20190608_144053.jpg",
     "IMG_20190607_102113.jpg",
     "IMG_20190607_085905.jpg",
@@ -17,21 +16,17 @@
     "IMG_20190531_152005.jpg",
     "IMG_20190531_145344.jpg",
     "IMG_20190309_140020.jpg",
-    "IMG_20190218_093509.jpg",
-    "IMG_20190217_144006.jpg",
     "IMG_20190126_211517.jpg",
     "IMG_20190106_145318-EFFECTS.jpg",
     "IMG_20190106_143833-EFFECTS-EFFECTS.jpg",
     "IMG_20190106_133021.jpg",
-    "IMG_20190106_113524.jpg",
     "IMG_20190105_203404.jpg",
     "IMG_20190105_183709.jpg",
     "IMG_20190105_183153.jpg",
     "IMG_20190105_181408.jpg",
     "IMG_20190105_135711-EFFECTS.jpg",
     "IMG_20190105_114624.jpg",
-    "IMG_20190105_114618.jpg",
-    "COLOR_POP.jpg"
+    "IMG_20190105_114618.jpg"
   ],
   "dict": {
     "IMG_20200308_151527.jpg": {
@@ -68,13 +63,6 @@
       "height": 3456,
       "path": "./photos\\2019\\IMG_20191008_030347.jpg",
       "min_path": "./photos\\2019\\IMG_20191008_030347.min.jpg"
-    },
-    "IMG_20190902_120712.jpg": {
-      "type": "photo",
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos\\2019\\IMG_20190902_120712.jpg",
-      "min_path": "./photos\\2019\\IMG_20190902_120712.min.jpg"
     },
     "IMG_20190608_144053.jpg": {
       "type": "photo",
@@ -153,20 +141,6 @@
       "path": "./photos\\2019\\IMG_20190309_140020.jpg",
       "min_path": "./photos\\2019\\IMG_20190309_140020.min.jpg"
     },
-    "IMG_20190218_093509.jpg": {
-      "type": "photo",
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos\\2019\\IMG_20190218_093509.jpg",
-      "min_path": "./photos\\2019\\IMG_20190218_093509.min.jpg"
-    },
-    "IMG_20190217_144006.jpg": {
-      "type": "photo",
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos\\2019\\IMG_20190217_144006.jpg",
-      "min_path": "./photos\\2019\\IMG_20190217_144006.min.jpg"
-    },
     "IMG_20190126_211517.jpg": {
       "type": "photo",
       "width": 4608,
@@ -194,13 +168,6 @@
       "height": 3456,
       "path": "./photos\\2019\\IMG_20190106_133021.jpg",
       "min_path": "./photos\\2019\\IMG_20190106_133021.min.jpg"
-    },
-    "IMG_20190106_113524.jpg": {
-      "type": "photo",
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos\\2019\\IMG_20190106_113524.jpg",
-      "min_path": "./photos\\2019\\IMG_20190106_113524.min.jpg"
     },
     "IMG_20190105_203404.jpg": {
       "type": "photo",
@@ -250,13 +217,6 @@
       "height": 3456,
       "path": "./photos\\2019\\IMG_20190105_114618.jpg",
       "min_path": "./photos\\2019\\IMG_20190105_114618.min.jpg"
-    },
-    "COLOR_POP.jpg": {
-      "type": "photo",
-      "width": 3456,
-      "height": 4608,
-      "path": "./photos\\2019\\COLOR_POP.jpg",
-      "min_path": "./photos\\2019\\COLOR_POP.min.jpg"
     }
   }
 }

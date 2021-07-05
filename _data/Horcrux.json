@@ -5,12 +5,23 @@
   "parents": [],
   "items": {
     "order": [
+      "2021",
       "2017",
       "2020",
       "2019",
       "2018"
     ],
     "dict": {
+      "2021": {
+        "name": "2021",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2021"
+        ],
+        "path": "./_data\\albums\\2021.json",
+        "no_sub_album": true
+      },
       "2019": {
         "name": "2019",
         "type": "album",
@@ -38,53 +49,8 @@
         "parents": [
           "2020"
         ],
-        "items": {
-          "order": [
-            "Pandemic",
-            "January"
-          ],
-          "dict": {
-            "Pandemic": {
-              "name": "Pandemic",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2020",
-                "Pandemic"
-              ],
-              "path": "./_data\\albums\\2020-Pandemic.json",
-              "no_sub_album": true
-            },
-            "January": {
-              "name": "January",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2020",
-                "January"
-              ],
-              "items": {
-                "order": [
-                  "Tiruchirappalli"
-                ],
-                "dict": {
-                  "Tiruchirappalli": {
-                    "name": "Tiruchirappalli",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2020",
-                      "January",
-                      "Tiruchirappalli"
-                    ],
-                    "path": "./_data\\albums\\2020-January-Tiruchirappalli.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
-            }
-          }
-        }
+        "path": "./_data\\albums\\2020.json",
+        "no_sub_album": true
       },
       "2018": {
         "name": "2018",

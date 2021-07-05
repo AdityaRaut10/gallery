@@ -1,0 +1,22 @@
+{
+  "order": [
+    "IMG_20210619_184141.jpg",
+    "IMG_20210603_185416.jpg"
+  ],
+  "dict": {
+    "IMG_20210619_184141.jpg": {
+      "type": "photo",
+      "width": 4608,
+      "height": 3456,
+      "path": "./photos\\2021\\IMG_20210619_184141.jpg",
+      "min_path": "./photos\\2021\\IMG_20210619_184141.min.jpg"
+    },
+    "IMG_20210603_185416.jpg": {
+      "type": "photo",
+      "width": 4413,
+      "height": 3310,
+      "path": "./photos\\2021\\IMG_20210603_185416.jpg",
+      "min_path": "./photos\\2021\\IMG_20210603_185416.min.jpg"
+    }
+  }
+}

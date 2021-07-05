@@ -1,5 +1,28 @@
 [
   {
+    "name": "2021",
+    "type": "photos",
+    "parents": [
+      "2021"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4608,
+        "height": 3456,
+        "path": "./photos\\2021\\IMG_20210619_184141.jpg",
+        "min_path": "./photos\\2021\\IMG_20210619_184141.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4413,
+        "height": 3310,
+        "path": "./photos\\2021\\IMG_20210603_185416.jpg",
+        "min_path": "./photos\\2021\\IMG_20210603_185416.min.jpg"
+      }
+    ]
+  },
+  {
     "name": "2017",
     "type": "photos",
     "parents": [
@@ -65,177 +88,158 @@
     ]
   },
   {
-    "name": "Pandemic",
+    "name": "2020",
     "type": "photos",
     "parents": [
-      "2020",
-      "Pandemic"
+      "2020"
     ],
     "list": [
       {
         "type": "photo",
         "width": 3456,
         "height": 4608,
-        "path": "./photos\\2020\\Pandemic\\IMG_20201114_182307.jpg",
-        "min_path": "./photos\\2020\\Pandemic\\IMG_20201114_182307.min.jpg"
+        "path": "./photos\\2020\\IMG_20201114_182307.jpg",
+        "min_path": "./photos\\2020\\IMG_20201114_182307.min.jpg"
       },
       {
         "type": "photo",
         "width": 3456,
         "height": 4608,
-        "path": "./photos\\2020\\Pandemic\\IMG_20201112_184401.jpg",
-        "min_path": "./photos\\2020\\Pandemic\\IMG_20201112_184401.min.jpg"
+        "path": "./photos\\2020\\IMG_20201112_184401.jpg",
+        "min_path": "./photos\\2020\\IMG_20201112_184401.min.jpg"
       },
       {
         "type": "photo",
         "width": 3456,
         "height": 4608,
-        "path": "./photos\\2020\\Pandemic\\IMG_20200713_183120.jpg",
-        "min_path": "./photos\\2020\\Pandemic\\IMG_20200713_183120.min.jpg"
+        "path": "./photos\\2020\\IMG_20200713_183120.jpg",
+        "min_path": "./photos\\2020\\IMG_20200713_183120.min.jpg"
       },
       {
         "type": "photo",
         "width": 4608,
         "height": 3456,
-        "path": "./photos\\2020\\Pandemic\\IMG_20200329_191108.jpg",
-        "min_path": "./photos\\2020\\Pandemic\\IMG_20200329_191108.min.jpg"
+        "path": "./photos\\2020\\IMG_20200329_191108.jpg",
+        "min_path": "./photos\\2020\\IMG_20200329_191108.min.jpg"
       },
       {
         "type": "photo",
         "width": 4608,
         "height": 3456,
-        "path": "./photos\\2020\\Pandemic\\IMG_20200328_100803.jpg",
-        "min_path": "./photos\\2020\\Pandemic\\IMG_20200328_100803.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Tiruchirappalli",
-    "type": "photos",
-    "parents": [
-      "2020",
-      "January",
-      "Tiruchirappalli"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 4000,
-        "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\17.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\17.min.jpg"
+        "path": "./photos\\2020\\IMG_20200328_100803.jpg",
+        "min_path": "./photos\\2020\\IMG_20200328_100803.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\16.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\16.min.jpg"
+        "path": "./photos\\2020\\17.jpg",
+        "min_path": "./photos\\2020\\17.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos\\2020\\16.jpg",
+        "min_path": "./photos\\2020\\16.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 1800,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\15.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\15.min.jpg"
+        "path": "./photos\\2020\\15.jpg",
+        "min_path": "./photos\\2020\\15.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\14.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\14.min.jpg"
+        "path": "./photos\\2020\\14.jpg",
+        "min_path": "./photos\\2020\\14.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\13.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\13.min.jpg"
+        "path": "./photos\\2020\\13.jpg",
+        "min_path": "./photos\\2020\\13.min.jpg"
       },
       {
         "type": "photo",
         "width": 4608,
         "height": 3456,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\12.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\12.min.jpg"
+        "path": "./photos\\2020\\12.jpg",
+        "min_path": "./photos\\2020\\12.min.jpg"
       },
       {
         "type": "photo",
         "width": 4608,
         "height": 3456,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\11.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\11.min.jpg"
+        "path": "./photos\\2020\\11.jpg",
+        "min_path": "./photos\\2020\\11.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\10.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\10.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4608,
-        "height": 3456,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\1.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\1.min.jpg"
+        "path": "./photos\\2020\\10.jpg",
+        "min_path": "./photos\\2020\\10.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\09.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\09.min.jpg"
+        "path": "./photos\\2020\\09.jpg",
+        "min_path": "./photos\\2020\\09.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\08.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\08.min.jpg"
+        "path": "./photos\\2020\\08.jpg",
+        "min_path": "./photos\\2020\\08.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\07.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\07.min.jpg"
+        "path": "./photos\\2020\\07.jpg",
+        "min_path": "./photos\\2020\\07.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\06.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\06.min.jpg"
+        "path": "./photos\\2020\\06.jpg",
+        "min_path": "./photos\\2020\\06.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 1800,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\05.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\05.min.jpg"
+        "path": "./photos\\2020\\05.jpg",
+        "min_path": "./photos\\2020\\05.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 1800,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\04.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\04.min.jpg"
+        "path": "./photos\\2020\\04.jpg",
+        "min_path": "./photos\\2020\\04.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\03.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\03.min.jpg"
+        "path": "./photos\\2020\\03.jpg",
+        "min_path": "./photos\\2020\\03.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 3000,
-        "path": "./photos\\2020\\January\\Tiruchirappalli\\02.jpg",
-        "min_path": "./photos\\2020\\January\\Tiruchirappalli\\02.min.jpg"
+        "path": "./photos\\2020\\02.jpg",
+        "min_path": "./photos\\2020\\02.min.jpg"
       }
     ]
   },
@@ -280,13 +284,6 @@
         "height": 3456,
         "path": "./photos\\2019\\IMG_20191008_030347.jpg",
         "min_path": "./photos\\2019\\IMG_20191008_030347.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4608,
-        "height": 3456,
-        "path": "./photos\\2019\\IMG_20190902_120712.jpg",
-        "min_path": "./photos\\2019\\IMG_20190902_120712.min.jpg"
       },
       {
         "type": "photo",
@@ -369,20 +366,6 @@
         "type": "photo",
         "width": 4608,
         "height": 3456,
-        "path": "./photos\\2019\\IMG_20190218_093509.jpg",
-        "min_path": "./photos\\2019\\IMG_20190218_093509.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4608,
-        "height": 3456,
-        "path": "./photos\\2019\\IMG_20190217_144006.jpg",
-        "min_path": "./photos\\2019\\IMG_20190217_144006.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4608,
-        "height": 3456,
         "path": "./photos\\2019\\IMG_20190126_211517.jpg",
         "min_path": "./photos\\2019\\IMG_20190126_211517.min.jpg"
       },
@@ -406,13 +389,6 @@
         "height": 3456,
         "path": "./photos\\2019\\IMG_20190106_133021.jpg",
         "min_path": "./photos\\2019\\IMG_20190106_133021.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4608,
-        "height": 3456,
-        "path": "./photos\\2019\\IMG_20190106_113524.jpg",
-        "min_path": "./photos\\2019\\IMG_20190106_113524.min.jpg"
       },
       {
         "type": "photo",
@@ -462,13 +438,6 @@
         "height": 3456,
         "path": "./photos\\2019\\IMG_20190105_114618.jpg",
         "min_path": "./photos\\2019\\IMG_20190105_114618.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3456,
-        "height": 4608,
-        "path": "./photos\\2019\\COLOR_POP.jpg",
-        "min_path": "./photos\\2019\\COLOR_POP.min.jpg"
       }
     ]
   },
@@ -579,13 +548,6 @@
       },
       {
         "type": "photo",
-        "width": 3072,
-        "height": 4096,
-        "path": "./photos\\2018\\IMG_20180826_121915__01.jpg",
-        "min_path": "./photos\\2018\\IMG_20180826_121915__01.min.jpg"
-      },
-      {
-        "type": "photo",
         "width": 4608,
         "height": 2176,
         "path": "./photos\\2018\\IMG_20180815_210156.jpg",
@@ -614,13 +576,6 @@
       },
       {
         "type": "photo",
-        "width": 4608,
-        "height": 3456,
-        "path": "./photos\\2018\\IMG_20180804_102925.jpg",
-        "min_path": "./photos\\2018\\IMG_20180804_102925.min.jpg"
-      },
-      {
-        "type": "photo",
         "width": 3456,
         "height": 4608,
         "path": "./photos\\2018\\IMG_20180804_095039.jpg",
@@ -646,20 +601,6 @@
         "height": 3456,
         "path": "./photos\\2018\\IMG_20180717_201622-EFFECTS.jpg",
         "min_path": "./photos\\2018\\IMG_20180717_201622-EFFECTS.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4608,
-        "height": 3456,
-        "path": "./photos\\2018\\IMG_20180717_165702.jpg",
-        "min_path": "./photos\\2018\\IMG_20180717_165702.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4160,
-        "height": 3120,
-        "path": "./photos\\2018\\IMG_20180710_112343.jpg",
-        "min_path": "./photos\\2018\\IMG_20180710_112343.min.jpg"
       },
       {
         "type": "photo",

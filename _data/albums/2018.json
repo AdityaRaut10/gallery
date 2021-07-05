@@ -14,18 +14,14 @@
     "IMG_20181006_235107.jpg",
     "IMG_20180929_084318.jpg",
     "IMG_20180908_122529.jpg",
-    "IMG_20180826_121915__01.jpg",
     "IMG_20180815_210156.jpg",
     "IMG_20180806_201446.jpg",
     "IMG_20180804_131654.jpg",
     "IMG_20180804_103515.jpg",
-    "IMG_20180804_102925.jpg",
     "IMG_20180804_095039.jpg",
     "IMG_20180720_213537.jpg",
     "IMG_20180719_160455.jpg",
     "IMG_20180717_201622-EFFECTS.jpg",
-    "IMG_20180717_165702.jpg",
-    "IMG_20180710_112343.jpg",
     "IMG_20180709_103613.jpg",
     "IMG_20180626_144854.jpg",
     "IMG_20180621_180428.jpg",
@@ -131,13 +127,6 @@
       "path": "./photos\\2018\\IMG_20180908_122529.jpg",
       "min_path": "./photos\\2018\\IMG_20180908_122529.min.jpg"
     },
-    "IMG_20180826_121915__01.jpg": {
-      "type": "photo",
-      "width": 3072,
-      "height": 4096,
-      "path": "./photos\\2018\\IMG_20180826_121915__01.jpg",
-      "min_path": "./photos\\2018\\IMG_20180826_121915__01.min.jpg"
-    },
     "IMG_20180815_210156.jpg": {
       "type": "photo",
       "width": 4608,
@@ -166,13 +155,6 @@
       "path": "./photos\\2018\\IMG_20180804_103515.jpg",
       "min_path": "./photos\\2018\\IMG_20180804_103515.min.jpg"
     },
-    "IMG_20180804_102925.jpg": {
-      "type": "photo",
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos\\2018\\IMG_20180804_102925.jpg",
-      "min_path": "./photos\\2018\\IMG_20180804_102925.min.jpg"
-    },
     "IMG_20180804_095039.jpg": {
       "type": "photo",
       "width": 3456,
@@ -200,20 +182,6 @@
       "height": 3456,
       "path": "./photos\\2018\\IMG_20180717_201622-EFFECTS.jpg",
       "min_path": "./photos\\2018\\IMG_20180717_201622-EFFECTS.min.jpg"
-    },
-    "IMG_20180717_165702.jpg": {
-      "type": "photo",
-      "width": 4608,
-      "height": 3456,
-      "path": "./photos\\2018\\IMG_20180717_165702.jpg",
-      "min_path": "./photos\\2018\\IMG_20180717_165702.min.jpg"
-    },
-    "IMG_20180710_112343.jpg": {
-      "type": "photo",
-      "width": 4160,
-      "height": 3120,
-      "path": "./photos\\2018\\IMG_20180710_112343.jpg",
-      "min_path": "./photos\\2018\\IMG_20180710_112343.min.jpg"
     },
     "IMG_20180709_103613.jpg": {
       "type": "photo",
